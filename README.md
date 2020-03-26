@@ -1,3 +1,12 @@
+## Travis CI
+
+|Branch|Status
+|--|--|
+|master|[![Build Status](https://travis-ci.org/jonathanmdr/maker.svg?branch=master)](https://travis-ci.org/jonathanmdr/maker)
+
+## Version
+[![node](https://img.shields.io/badge/Maker-0.0.6-lightgray.svg)](https://github.com/gustavovitor/maker/tree/0.0.6)
+
 # How is this?
 The Maker project is an abstraction to speed up the development time of RestAPI using Spring Framework.
 
