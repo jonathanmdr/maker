@@ -3,4 +3,4 @@ jdk:
   - openjdk11
 install:
   - mvn -N io.takari:maven:wrapper
-  - ./mvnw install -B -V
+  - ./mvnw install -Dmaven.javadoc.skip=true -B -V
